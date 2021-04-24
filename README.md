@@ -16,3 +16,23 @@ in the first half of the year quantity of mobile phones of type A can NOT exceed
 Your task is to make a schedule for every type of mobile phone for every month in the followting year to maximize profit of a whole factory. That mean you will have 3 numbers (type A, B and C) for every month (12 months).
 
 What will be the profit of a whole factory next year?
+
+## Getting started
+On Window:
+ 
+Install cvxpy
+
+```bash
+$ python -m pip install cvxpy
+``` 
+Install numpy
+
+
+```bash
+$ python -m pip install numpy
+``` 
+Install matplotlib
+
+```bash
+$ python -m pip install matplotlib
+``` 
