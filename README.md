@@ -45,7 +45,7 @@ price_c = np.array([100, 110, 98, 115, 200, 220, 210, 500, 500, 490, 487, 550.])
 ## Running script
 
 ```bash
-python cvxpy.py
+python cvxpy_example.py
 ``` 
 (Python 3.9.0)
 
