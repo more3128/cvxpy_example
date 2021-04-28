@@ -26,6 +26,7 @@ Install cvxpy
 $ python -m pip install cvxpy
 ``` 
 ** Visual Studio Builder version **
+
 Install numpy
 
 
